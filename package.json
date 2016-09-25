@@ -1,0 +1,23 @@
+{
+  "name": "sample-scraping-nodejs",
+  "version": "1.0.0",
+  "description": "Teknik bagaimana get content webpage dengan nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4rm41n/sample-scraping-nodejs.git"
+  },
+  "author": "harmain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h4rm41n/sample-scraping-nodejs/issues"
+  },
+  "homepage": "https://github.com/h4rm41n/sample-scraping-nodejs#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.75.0"
+  }
+}
